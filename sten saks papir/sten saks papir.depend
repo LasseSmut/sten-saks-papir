@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1700070961 source:c:\users\lasse\onedrive - herningsholm erhvervsskole\htx\programering\c kode\sten saks papir\sten saks papir.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<stdbool.h>
+	<conio.h>
+
